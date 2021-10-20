@@ -1,0 +1,2 @@
+# NaitonMobileAppReinforced
+Improved app architecture
